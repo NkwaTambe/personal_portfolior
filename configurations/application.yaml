@@ -9,6 +9,7 @@ spec:
     repoURL: https://github.com/NkwaTambe/personal_portfolior.git
     targetRevision: HEAD
     path: configurations
+    
 
   syncPolicy:
     syncOptions:
