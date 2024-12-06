@@ -9,6 +9,7 @@ spec:
     repoURL: https://github.com/NkwaTambe/personal_portfolior.git
     targetRevision: HEAD
     path: ""
+    
   destination:
     server: https://kubernetes.default.svc
     namespace: portfolior
